@@ -8,4 +8,7 @@ The CMVTI, a Chinese multimodal video dataset with tag importance, containing 9,
 ## Data
 
 
-The data will be available soon!
+The complete data will be available soon!
+
+Sample pictures:
+![bbox examples](images/bbox_ex.png)
